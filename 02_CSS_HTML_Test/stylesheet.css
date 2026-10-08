@@ -1,0 +1,50 @@
+.yellow_box {
+    background-color: red;
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 150px;
+    justify-content: flex-end;
+    align-items: center;
+    
+    padding: 40px;
+}
+
+.green_boxes {
+    background-color: purple;
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+
+}
+
+.blue_box {
+    background-color: yellow;
+    width: 400px;
+    height: 300px;
+
+    position: relative;
+
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.orange_box {
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.lila_box {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
