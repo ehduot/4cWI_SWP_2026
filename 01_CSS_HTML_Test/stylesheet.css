@@ -1,0 +1,49 @@
+.Liste {
+    width: 400px;
+    height: 300px;
+    background-color: lightblue;
+    border: 2px solid black;
+
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.orange_box{
+    width: 160px;
+    height: 100px;
+    background-color: orange;
+    border: 2px solid black;
+
+    margin-left: 258px;
+    margin-top: 84.5px;
+}
+
+.lila_box {
+    width: 50px;
+    height: 50px;
+    background-color: violet;
+    border: 2px solid black;
+
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+.yellow_box {
+    background-color: yellow;
+    border: 2px solid black;
+    margin-top: 50px;
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.green_boxes {
+    width: 50px;
+    height: 50px;
+    background-color: lightgreen;
+    border: 2px solid black;
+}
