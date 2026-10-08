@@ -1,0 +1,50 @@
+.blue_box {
+    background-color: lightblue;
+    width: 200px;
+    height: 400px;
+
+    margin-left: 40px;
+    margin-top: 40px;
+
+    position: relative;
+}
+
+.green_box1 {
+    background-color: lightgreen;
+    width: 40px;
+    height: 40px;
+
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.black_box {
+    background-color: black;
+    width: 40px;
+    height: 40px;
+
+    position: absolute;
+    top: -20px;
+    left: -20px;
+
+}
+
+.drecks_box {
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.green_boxes {
+    background-color: lightgreen;
+    width: 40px;
+    height: 20px;
+}
+
+.body {
+    padding: 40px;
+}
